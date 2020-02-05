@@ -1,2 +1,2 @@
-# x-micromobility.github.io
-Repository for the website of project X-micromobility
+# X-micromobility Project
+Repository for the website of project X-micromobility.
